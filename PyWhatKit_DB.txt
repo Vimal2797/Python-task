@@ -1,0 +1,25 @@
+Date: 18/10/2026
+Time: 16:27
+Phone Number: +916382258883
+Message: SMARTDRAIN ALERT\nRisk level: MODERATE (47/100)\nRainfall: 60.0 mm/hour\nWater level: 55.0%\nDrain blockage: 40.0%\nFlow rate: 45.0 L/s\nRecommendation: Monitor water level and rainfall; inspect the drain soon.\nNote: Automated simulation alert; verify conditions locally.
+--------------------
+Date: 18/10/2026
+Time: 17:20
+Phone Number: +917708327253
+Message: SMARTDRAIN ALERT\nRisk level: HIGH (59/100)\nRainfall: 120.0 mm/hour\nWater level: 55.0%\nDrain blockage: 40.0%\nFlow rate: 45.0 L/s\nRecommendation: High risk. Inspect/clear the drain and notify the responsible team.\nNote: Automated simulation alert; verify conditions locally.
+--------------------
+Date: 18/10/2026
+Time: 17:23
+Phone Number: +918825455433
+Message: SMARTDRAIN ALERT\nRisk level: HIGH (59/100)\nRainfall: 120.0 mm/hour\nWater level: 55.0%\nDrain blockage: 40.0%\nFlow rate: 45.0 L/s\nRecommendation: High risk. Inspect/clear the drain and notify the responsible team.\nNote: Automated simulation alert; verify conditions locally.
+--------------------
+Date: 18/10/2026
+Time: 17:25
+Phone Number: +917708327253
+Message: SMARTDRAIN ALERTRisk level: MODERATE (47/100)Rainfall: 60.0 mm/hourWater level: 55.0%Drain blockage: 40.0%Flow rate: 45.0 L/sRecommendation: Monitor water level and rainfall; inspect the drain soon.Note: Automated simulation alert; verify conditions locally.
+--------------------
+Date: 18/10/2026
+Time: 17:26
+Phone Number: +918825455433
+Message: SMARTDRAIN ALERTRisk level: MODERATE (47/100)Rainfall: 60.0 mm/hourWater level: 55.0%Drain blockage: 40.0%Flow rate: 45.0 L/sRecommendation: Monitor water level and rainfall; inspect the drain soon.Note: Automated simulation alert; verify conditions locally.
+--------------------
